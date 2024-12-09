@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>sample3.jpg</filename>
+  <object>
+    <name>healthy_crop</name>
+    <bndbox>
+      <xmin>50</xmin>
+      <ymin>100</ymin>
+      <xmax>150</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>unhealthy_crop</name>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>150</ymin>
+      <xmax>300</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+</annotation>
